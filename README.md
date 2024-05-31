@@ -11,3 +11,6 @@ The second step was to identify the manufacturer delivering the highest electric
 
 The next step was to identify the city with the highest electric range. <br>
 ![logo](https://github.com/WhatIfAditya7/Electric-Vehicles/blob/main/Picture3.png)
+
+The final step was to identify the year wise purchase of electric cars. <br>
+![logo](https://github.com/WhatIfAditya7/Electric-Vehicles/blob/main/Picture4.png)
