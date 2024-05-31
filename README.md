@@ -7,4 +7,4 @@ The first step was to have a subset of the original dataset and identify the are
 ![logo](https://github.com/WhatIfAditya7/Electric-Vehicles/blob/main/Picture1.png) <br>
 
 The second step was to identify the manufacturer delivering the highest electric range. <br>
-![logo]()
+![logo](https://github.com/WhatIfAditya7/Electric-Vehicles/blob/main/Picture2.png)
