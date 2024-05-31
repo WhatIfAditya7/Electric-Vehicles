@@ -13,4 +13,6 @@ The next step was to identify the city with the highest electric range. <br>
 ![logo](https://github.com/WhatIfAditya7/Electric-Vehicles/blob/main/Picture3.png)
 
 The final step was to identify the year wise purchase of electric cars. <br>
-![logo](https://github.com/WhatIfAditya7/Electric-Vehicles/blob/main/Picture4.png)
+![logo](https://github.com/WhatIfAditya7/Electric-Vehicles/blob/main/Picture4.png) <br>
+
+After the Exploratory Data Analysis, using DataPipelines and MulticlassClassifier, a prediction model was developed with an accuracy of 90%. Using Random Forest algorithm and defining it importance feature, I got the components holding the most significance.
